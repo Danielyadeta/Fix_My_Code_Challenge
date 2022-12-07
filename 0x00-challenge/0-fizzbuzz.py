@@ -2,8 +2,6 @@
 """ FizzBuzz
 """
 import sys
-
-
 def fizzbuzz(n):
     """
     FizzBuzz function prints numbers from 1 to n separated by a space.
